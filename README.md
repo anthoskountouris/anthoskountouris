@@ -12,5 +12,5 @@
 <a href="https://www.linkedin.com/in/anthos-kountouris-a891681ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthoskountouris" height="30" width="40" /></a>
 </p>
 <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gpsevdiotis&show_icons=true&locale=en&layout=compact&theme=radical" alt="gpsevdiotis" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthoskountouris&show_icons=true&locale=en&layout=compact&theme=radical" alt="anthoskountouris" /></p>
 
