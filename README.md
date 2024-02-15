@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, welcome to my Github Profile</h1>
 <h2 align="center">I am Anthos Kountouris, </h2>
-<h3 align="center">BSc Computer Science Graduate @ Cardiff University</h3>
-<h3 align="center">MSc Data Science Student @ King's College London</h3>
+<h3 align="center">BSc Computer Science @ Cardiff University</h3>
+<h3 align="center">MSc Data Science @ King's College London</h3>
 
 <hr>
 <br>
